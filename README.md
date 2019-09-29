@@ -1,0 +1,1 @@
+Plex Fullscreen Bug Fix
